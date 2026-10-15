@@ -1,0 +1,2 @@
+</main><footer class="footer">CarePoint · Healthcare Management Tool <span>Educational project</span></footer></div></div>
+<script src="<%=request.getContextPath()%>/assets/js/app.js"></script></body></html>
